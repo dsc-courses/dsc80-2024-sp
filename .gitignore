@@ -1,3 +1,6 @@
+.ruby-version
+.ruby-gemset
+
 # Created by https://www.toptal.com/developers/gitignore/api/jekyll,macos,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=jekyll,macos,python
 
@@ -17,7 +20,8 @@ vendor/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
