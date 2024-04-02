@@ -1,5 +1,5 @@
 ---
-title: Week 1 - From BabyPandas to Pandas<br><small>🚨 
+title: "Week 1 - From BabyPandas to Pandas"
 weekNumber: 1
 days:
   - date: '2024-01-09'
