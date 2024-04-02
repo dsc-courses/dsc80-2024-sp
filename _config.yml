@@ -33,11 +33,11 @@ aux_links:
   🙋 Ed:
     - 'https://edstem.org/us/courses/57672/discussion/'
   💯 Gradescope:
-    - 'https://www.gradescope.com/courses/698219/'
+    - 'https://www.gradescope.com/courses/759147'
   💪 Practice:
     - 'https://practice.dsc80.com'
   🤔 Lecture Questions:
-    - 'https://docs.google.com/forms/d/e/1FAIpQLScWbVZv9hBv-wX-ItKHUVRnkPMMtfJZVfErKE9GS7_8dFcRBQ/viewform'
+    - 'https://q.dsc80.com/'
 footer_content:
 
 # Collections for website data
@@ -91,10 +91,10 @@ plugins:
 # callouts
 callouts:
   red:
-    title: 
+    title:
     color: red
   yellow:
-    title: 
+    title:
     color: yellow
   green:
     title: ""
