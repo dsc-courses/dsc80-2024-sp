@@ -10,7 +10,7 @@ nav_order: 6
 ## Instructor
 
 <div class="staffer">
-  <img class="staffer-image" src="{{ 'assets/staff-images/lau-sam.jpg' | relative_url }}" alt="Sam Lau">
+  <img class="staffer-image" src="{{ 'assets/staff-images/lau.jpg' | https://www.samlau.me/ }}" alt="Sam Lau">
 
   <div>
     <h3 class="staffer-name">
@@ -21,12 +21,11 @@ nav_order: 6
     <!-- Contact Information -->
     <p>
       <a href="mailto:lau@ucsd.edu">lau@ucsd.edu</a><br>
-      <a href="https://pandastutor.com/" target="_blank">https://pandastutor.com/</a>
     </p>
 
     <!-- Instructor Paragraph -->
     <p>
-      Sam Lau is an assistant teaching professor in the Halıcıoğlu Data Science Institute at UC San Diego. His research creates novel interfaces for learning and teaching data science, including the popular Pandas Tutor tool, which serves over 40,000 people per year. He is the author of an introductory data science textbook called Learning Data Science, published by O’Reilly Media in 2023.
+      Sam Lau is an assistant teaching professor in the Halıcıoğlu Data Science Institute at UC San Diego. His research creates novel interfaces for learning and teaching data science, including the popular Pandas Tutor tool (https://pandastutor.com/) which serves over 40,000 people per year. He is the author of an introductory data science textbook called Learning Data Science, published by O’Reilly Media in 2023.
     </p>
   </div>
 </div>
