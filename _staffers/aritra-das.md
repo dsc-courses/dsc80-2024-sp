@@ -4,7 +4,8 @@ role: Tutor
 pronouns: he/him
 email: ardas@ucsd.edu
 photo: assets/staff-images/aritra-das.png
-description: 3rd/final year, Data Science Major & Economics Minor, Warren
+description: 3rd Year Data Science Student 
 hometown: Torrance, CA
-askabout: Large Language Model and my Dog Ruben
+askabout: NVIM and all thing Data Science
+food: The Noble Chef, Mo-Mo-Paradise, Taste of Hunan
 ---
