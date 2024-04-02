@@ -3,10 +3,10 @@ name: Diego Zavalza
 role: Tutor
 pronouns: he/him
 email: dzavalza@ucsd.edu
-photo: assets/staff-images/zavalza-diego.jpg
+photo: assets/staff-images/zavalza-diego.JPG
 description: 4th year, Data Science, Marshall
-hometown: Oakland, CA
-askabout: Internship experiences, real estate, basketball, and cooking
+hometown: Modesto, CA
+askabout: Internships at Amazon, Meta, & Gallo, Real Estate, Cooking
 foodemoji: 🌮
-food: Tacos El Gordo,  Phil's BBQ
+food: Tacos El Gordo, Phil's BBQ, Mike's Red Tacos
 ---
