@@ -10,7 +10,7 @@ nav_order: 6
 ## Instructor
 
 <div class="staffer">
-  <img class="staffer-image" src="assets/staff-images/lau.jpg" alt="Sam Lau">
+  <img class="staffer-image" src="/assets/staff-images/lau.jpg" alt="Sam Lau">
 
   <div>
     <h3 class="staffer-name">
