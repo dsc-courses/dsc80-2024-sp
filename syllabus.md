@@ -114,14 +114,15 @@ Lectures will be held in-person on Tuesdays and Thursdays from 9:30-10:50AM
 href="https://map.concept3d.com/?id=1005#!m/237174">Peterson Hall</a> 103.
 Lectures will be podcasted.
 
-In the Welcome Survey at the start of the quarter, you will have the option of
-opting into lecture attendance or opting out. If you choose to opt in, lecture
-attendance will be worth 5% of your overall grade. If you choose to opt out,
-attendance will be worth 0%, and your midterm and final exam grade will each be
-worth 2.5% more. To receive lecture attendance for a given week, you must attend
-and participate in the in-lecture activities for both lectures that week. You
-will receive full credit for lecture attendance for the quarter if you attend at
-least 8 weeks of lecture during the 10 week quarter.
+**New**{: .label .label-green } In the Welcome Survey at the start of the
+quarter, you will have the option of opting into lecture attendance or opting
+out. If you choose to opt in, lecture attendance will be worth 5% of your
+overall grade. If you choose to opt out, attendance will be worth 0%, and your
+midterm and final exam grade will each be worth 2.5% more. To receive lecture
+attendance for a given week, you must attend and participate in the in-lecture
+activities for both lectures that week. You will receive full credit for lecture
+attendance for the quarter if you attend at least 8 weeks of lecture during the
+10 week quarter.
 
 Lecture notebooks will be your main resource in this class. You can access them,
 along with all course materials, by pulling from the [course GitHub
