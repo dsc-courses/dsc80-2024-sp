@@ -9,10 +9,28 @@ nav_order: 6
 
 ## Instructor
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
+<div class="staffer">
+  <img class="staffer-image" src="{{ 'assets/staff-images/lau-sam.jpg' | relative_url }}" alt="Sam Lau">
+
+  <div>
+    <h3 class="staffer-name">
+      Sam Lau
+      <div class="staffer-pronouns"><b>He/Him</b></div>
+    </h3>
+
+    <!-- Contact Information -->
+    <p>
+      <a href="mailto:lau@ucsd.edu">lau@ucsd.edu</a><br>
+      <a href="https://pandastutor.com/" target="_blank">https://pandastutor.com/</a>
+    </p>
+
+    <!-- Instructor Paragraph -->
+    <p>
+      Sam Lau is an assistant teaching professor in the Halıcıoğlu Data Science Institute at UC San Diego. His research creates novel interfaces for learning and teaching data science, including the popular Pandas Tutor tool, which serves over 40,000 people per year. He is the author of an introductory data science textbook called Learning Data Science, published by O’Reilly Media in 2023.
+    </p>
+  </div>
+</div>
+
 
 ## Staff
 
