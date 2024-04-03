@@ -13,6 +13,7 @@ days:
   - name: LAB 1
     type: lab
     title: Python, NumPy, and Pandas
+    url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab01
     reading: ''
 - date: '2024-04-11'
   events:
