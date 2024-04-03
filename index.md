@@ -13,6 +13,7 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
+[syllabus]: syllabus
 [ed]: https://edstem.org/us/join/zk8hRm
 [gradescope]: https://www.gradescope.com/courses/698219
 [github]: https://github.com/dsc-courses/dsc80-2024-sp
@@ -29,8 +30,8 @@ nav_order: 1
 
 <!-- Click the 🎥 button to view the recording of a lecture/discussion.<br>Click the 📝 button to view lecture notebooks after they've been filled in during lecture. -->
 
-<!-- {: .green }
-**If at least 80% of the class fills out both [SETs](https://academicaffairs.ucsd.edu/Modules/Evals) and the [End-of-Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSe-ADKrha3WLbf1U6mrwxxy7hckSHCsMJfNjs53AoPP0LJABg/viewform) by SATURDAY AT 8AM, we'll add 1% of extra credit to everyone's overall grade!** -->
+{: .green }
+**Welcome to DSC 80! 👋 Make sure to: read the [syllabus][syllabus], check that you can access [Gradescope][gradescope] and [Ed][ed], fill out the [Welcome Survey][welcome-survey], and fill out the [Exam Accommodations Form][exam-accommodations] if you have an exam conflict.**
 
 {% for module in site.modules %}
 {{ module }}

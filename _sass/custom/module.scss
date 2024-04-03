@@ -78,8 +78,27 @@
   .module-event {
     grid-column-start: 2;
 
+    display: flex;
+    flex-direction: column;
+
+    @include mq(sm) {
+      flex-direction: row;
+    }
+
     +.module-event {
       padding-top: 0;
+    }
+
+    &-type {
+      flex: 0;
+    }
+
+    &-content {
+      flex: 4;
+    }
+
+    &-readings {
+      flex: 1;
     }
 
     .label-lecture { background-color: #ECEBED; text-align: center; border-radius: 6px; width: 65px; }
