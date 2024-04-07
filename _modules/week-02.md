@@ -30,5 +30,6 @@ days:
   - name: PROJ 1
     type: proj
     title: Project 1 checkpoint
+    url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/projects/01-gradebook
     reading: ''
 ---
