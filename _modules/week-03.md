@@ -13,6 +13,7 @@ days:
   - name: LAB 2
     type: lab
     title: More Pandas
+    url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab02
     reading: ''
 - date: '2024-04-18'
   events:
