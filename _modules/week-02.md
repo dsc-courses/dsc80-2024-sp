@@ -32,6 +32,8 @@ days:
         title: Exam Prep 2
         reading: ''
         blank: discussions/disc02/disc02_worksheet.pdf
+        filled: discussions/disc02/disc02_filled.pdf
+        reading: '[Slides](discussions/disc02/disc02_slides.pdf), [Video](https://youtu.be/PIedHIU_FIY)'
       - name: PROJ 1
         type: proj
         title: Project 1 checkpoint
