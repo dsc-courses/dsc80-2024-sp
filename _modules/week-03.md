@@ -22,7 +22,9 @@ days:
       - name: LEC 6
         type: lecture
         title: Hypothesis and Permutation Testing
-        reading: '[Ch. 17](https://learningds.org/ch/17/inf_pred_gen_intro.html)'
+        blank: resources/lectures/lec06/lec06-live.html
+        filled: resources/lectures/lec06/lec06.html
+        reading: '[DSC 10 Review Notebook](resources/lectures/lec06/pre-lec06.html), [Ch. 17](https://learningds.org/ch/17/inf_pred_gen_intro.html)'
   - date: '2024-04-19'
     events:
       - name: PROJ 1
