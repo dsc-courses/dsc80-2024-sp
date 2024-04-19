@@ -34,5 +34,6 @@ days:
       - name: DISC 3
         type: disc
         title: Exam Prep 3
+        blank: discussions/disc03/disc03_worksheet.pdf
         reading: ''
 ---
