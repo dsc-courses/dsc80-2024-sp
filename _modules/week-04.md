@@ -26,6 +26,7 @@ days:
   - name: PROJ 2
     type: proj
     title: Project 2 checkpoint
+    url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/projects/02-loan_applications
     reading: ''
   - name: DISC 4
     type: disc

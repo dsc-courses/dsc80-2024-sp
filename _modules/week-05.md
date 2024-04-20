@@ -26,6 +26,7 @@ days:
     type: proj
     title: Project 2
     reading: ''
+    url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/projects/02-loan_applications
   - name: DISC 5
     type: disc
     title: Exam Prep 5
