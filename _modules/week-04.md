@@ -7,8 +7,8 @@ days:
       - name: LEC 7
         type: lecture
         title: Missingness Mechanisms
-        blank: resources/lectures/lec08/lec07-live.html
-        filled: resources/lectures/lec08/lec07.html
+        blank: resources/lectures/lec07/lec07-live.html
+        filled: resources/lectures/lec07/lec07.html
         reading: '[A1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4121561/), [A2](https://stefvanbuuren.name/fimd/sec-MCAR.html)'
   - date: '2024-04-24'
     events:
