@@ -35,7 +35,7 @@ days:
       - name: DISC 4
         type: disc
         title: Exam Prep 4
-        reading: ''
+        reading: '[Slides](discussions/disc04/disc04_slides.pdf)'
         blank: discussions/disc04/disc04_worksheet.pdf
         filled: discussions/disc04/disc04_solutions.pdf
 ---
