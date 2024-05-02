@@ -13,6 +13,7 @@ days:
       - name: LAB 5
         type: lab
         title: Missing Values and Imputation
+        url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab05
         reading: ''
   - date: '2024-05-09'
     events:
