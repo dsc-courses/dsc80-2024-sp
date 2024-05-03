@@ -34,6 +34,7 @@ days:
         url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/projects/02-loan_applications
       - name: DISC 5
         type: disc
+        blank: discussions/disc05/disc05_worksheet.pdf
         title: Exam Prep 5
         reading: ''
 ---
