@@ -22,6 +22,8 @@ days:
       - name: EXAM
         type: exam
         title: Midterm Exam (in class)
+        blank: resources/exams/midterm.pdf
+        filled: resources/exams/SOLUTIONS-midterm.pdf
         reading: ''
   - date: '2024-05-03'
     events:
