@@ -36,5 +36,5 @@ days:
         type: disc
         blank: discussions/disc05/disc05_worksheet.pdf
         title: Exam Prep 5
-        reading: ''
+        reading: '[Video](https://youtu.be/IFUWwKEfpio)'
 ---
