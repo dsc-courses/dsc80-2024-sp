@@ -10,6 +10,7 @@ days:
         blank: resources/lectures/lec10/lec10-live.html
         filled: resources/lectures/lec10/lec10.html
         reading: '[Ch. 14.2-14.4](https://learningds.org/ch/14/web_json.html)'
+        podcast: https://youtu.be/ji-HZpaO5ng
   - date: '2024-05-08'
     events:
       - name: LAB 5
