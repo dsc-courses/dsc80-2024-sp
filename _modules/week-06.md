@@ -23,6 +23,8 @@ days:
       - name: LEC 11
         type: lecture
         title: Regular Expressions
+        blank: resources/lectures/lec11/lec11-live.html
+        filled: resources/lectures/lec11/lec11.html
         reading: '[Ch. 13](https://learningds.org/ch/13/text_intro.html)'
   - date: '2024-05-10'
     events:
