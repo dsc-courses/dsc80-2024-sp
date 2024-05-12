@@ -31,6 +31,7 @@ days:
       - name: DISC 6
         type: disc
         title: Exam Prep 6
+        blank: discussions/disc06/disc06_worksheet.pdf
         reading: ''
       - name: PROJ 3
         type: proj
