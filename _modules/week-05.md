@@ -35,6 +35,7 @@ days:
       - name: DISC 5
         type: disc
         blank: discussions/disc05/disc05_worksheet.pdf
+        filled: discussions/disc05/disc05_filled.pdf
         title: Exam Prep 5
         reading: '[Video](https://youtu.be/IFUWwKEfpio)'
 ---
