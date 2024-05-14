@@ -32,7 +32,8 @@ days:
         type: disc
         title: Exam Prep 6
         blank: discussions/disc06/disc06_worksheet.pdf
-        reading: ''
+        filled: discussions/disc06/disc06_solutions.pdf
+        reading: '[Slides](discussions/disc06/disc06.pdf)'
       - name: PROJ 3
         type: proj
         title: Project 3 checkpoint

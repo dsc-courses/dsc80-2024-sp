@@ -37,5 +37,5 @@ days:
         blank: discussions/disc05/disc05_worksheet.pdf
         filled: discussions/disc05/disc05_filled.pdf
         title: Exam Prep 5
-        reading: '[Video](https://youtu.be/IFUWwKEfpio)'
+        reading: '[Slides](discussions/disc05/disc05.pdf), [Video](https://youtu.be/IFUWwKEfpio)'
 ---
