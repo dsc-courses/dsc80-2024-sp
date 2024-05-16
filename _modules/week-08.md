@@ -13,6 +13,7 @@ days:
   - name: LAB 7
     type: lab
     title: Regular Expressions and Text Data
+    url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab07
     reading: ''
 - date: '2024-05-23'
   events:
