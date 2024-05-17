@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Project 4: The Data Science Lifecycle 📊"
-description: Description of Project 4.
+title: "Final Project: The Data Science Lifecycle 📊"
+description: Description of Final Project.
 nav_exclude: true
 ---
 
@@ -62,7 +62,7 @@ To help contextualize the kinds of analysis you can do in this project, it might
 2. [Recipe Calorie Analysis](https://fjiang316.github.io/Recipe_Calorie/): In this project, the students have effectively highlighted their research questions in bold on the website, allowing for quick and clear identification of the study’s focus. In your own project, try to make your research question prominent and noticeable.
 3. [League Of Legends Soul Analysis](https://zoeludena.github.io/League-Of-Legends-Soul-Analysis/): This project initially presented a research question that was somewhat obscure to those unfamiliar with League of Legends. However, the students excelled in clarifying their research aims, making the study accessible and understandable to a broader audience. In your own project, ensure that you provide a lucid and detailed explanation of your research focus.
 
-Note that these examples only contain a subset of the analyses you were required to do – your websites will be longer than those above. (In previous offerings of DSC 80, Project 4 used to be split into two separate projects, Projects 3 and 5. The above examples are old Project 3s.)
+Note that these examples only contain a subset of the analyses you were required to do – your websites will be longer than those above. (In previous offerings of DSC 80, The Final Project used to be split into two separate projects, Projects 3 and 5. The above examples are old Project 3s.)
 
 {: .green }
 Before choosing a dataset, read the rest of this page to see what's required of you!
@@ -73,7 +73,7 @@ Before choosing a dataset, read the rest of this page to see what's required of 
 
 Before beginning your analysis, you'll need to set up a few things.
 
-1. Pull the latest version of the [`dsc80-2024-sp`](https://github.com/dsc-courses/dsc80-2024-sp/) repo. Within the `projects/proj04` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2024-sp/blob/master/projects/proj04/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
+1. Pull the latest version of the [`dsc80-2024-sp`](https://github.com/dsc-courses/dsc80-2024-sp/) repo. Within the `projects/proj04` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2024-sp/blob/main/projects/04-The%20Data%20Science%20Lifecycle/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
 1. Select **one** of the three [datasets mentioned above](#choosing-a-dataset), download it, and load it into your template notebook.
 
 Once you have your dataset loaded in your notebook, it's time for you to find meaning in the real-world data you've collected! Follow the steps below.
@@ -121,7 +121,7 @@ In Steps 5-8, you will build a predictive model, based on the knowledge of your 
 
 | Step  | Analysis in Notebook | Report on Website |
 | --- | --- | --- |
-|**Problem Identification**|Identify a prediction problem. Feel free to use one of the example prediction problems stated in the "Example Questions and Prediction Problems" section of your dataset's description page or pose a hypothesis test of your own. The prediction problem you come up with doesn't have to be related to the question you were answering in Steps 1-4, but ideally, your entire project has some sort of coherent theme.|Clearly state your prediction problem and type (classification or regression). If you are building a classifier, make sure to state whether you are performing binary classification or multiclass classification. Report the response variable (i.e. the variable you are predicting) and why you chose it, the metric you are using to evaluate your model and why you chose it over other suitable metrics (e.g. accuracy vs. F1-score).<br><br>***Note***: Make sure to justify what information you would know at the "time of prediction" and to only train your model using those features. For instance, if we wanted to predict your final exam grade, we couldn’t use your Project 4 grade, because Project 4 is only due after the final exam! Feel free to ask questions if you're not sure.|
+|**Problem Identification**|Identify a prediction problem. Feel free to use one of the example prediction problems stated in the "Example Questions and Prediction Problems" section of your dataset's description page or pose a hypothesis test of your own. The prediction problem you come up with doesn't have to be related to the question you were answering in Steps 1-4, but ideally, your entire project has some sort of coherent theme.|Clearly state your prediction problem and type (classification or regression). If you are building a classifier, make sure to state whether you are performing binary classification or multiclass classification. Report the response variable (i.e. the variable you are predicting) and why you chose it, the metric you are using to evaluate your model and why you chose it over other suitable metrics (e.g. accuracy vs. F1-score).<br><br>***Note***: Make sure to justify what information you would know at the "time of prediction" and to only train your model using those features. For instance, if we wanted to predict your final exam grade, we couldn’t use your Final Project grade, because the project is only due after the final exam! Feel free to ask questions if you're not sure.|
 
 ### Step 6: Baseline Model
 
@@ -181,7 +181,7 @@ If you'd like to follow the official [GitHub Pages & Jekyll](https://docs.github
 1. Create a GitHub account, if you don't already have one.
 1. Create a new GitHub repository for your project.
    - GitHub Pages sites live at `<username>.github.io/<reponame>` (for instance, the site for [github.com/dsc-courses/dsc80-2024-sp](https://github.com/dsc-courses/dsc80-2024-sp) is [dsc-courses.github.io/dsc80-2024-sp](https://dsc-courses.github.io/dsc80-2024-sp)).
-   - As such, **don't** include "DSC 80" or "Project 4" in your repo's name – this looks unprofessional to future employers, and gives you a generic-sounding URL. Instead, mention that this is a project for DSC 80 at UCSD in the repository description.
+   - As such, **don't** include "DSC 80" or "Final Project" in your repo's name – this looks unprofessional to future employers, and gives you a generic-sounding URL. Instead, mention that this is a project for DSC 80 at UCSD in the repository description.
    - **Make sure to make your repository public.**
    - Select "ADD a README file." This ensures that your repository starts off non-empty, which is necessary to continue.
 1. Click "Settings" in the repository toolbar (next to "Insights"), then click "Pages" in the left menu.
@@ -281,15 +281,15 @@ The checkpoint assignment is worth 20 points, and asks you to answer the followi
 
 You will ultimately submit your project in two ways:
 
-1. By uploading a **PDF version** of your notebook to the specific "Project 4 Notebook PDF (Dataset)" assignment on Gradescope **for your dataset**.
+1. By uploading a **PDF version** of your notebook to the specific "Final Project Notebook PDF (Dataset)" assignment on Gradescope **for your dataset**.
    - To export your notebook as a PDF, first, restart your kernel and run all cells. Then, go to "File > Print Preview". Then, save a print preview of the webpage as a PDF. There are other ways to save a notebook as a PDF but they may require that you have additional packages installed on your computer, so this is likely the most straightforward.
    - It's fine if your `plotly` graphs don't render in the PDF output of your notebook. However, **make sure none of the code is cut off in your notebook's PDF**. **You will lose 5% of the points available on this project if your code is cut off.**
    - This notebook asks you to include a link to your website; make sure to do so.
-2. By submitting a **link to your website** to the "Project 4 Website Link (All Datasets)" assignment on Gradescope.
+2. By submitting a **link to your website** to the "Final Project Website Link (All Datasets)" assignment on Gradescope.
 
 To both submissions, make sure to tag your partner. You don't need to submit your actual `.ipynb` file anywhere. **While your website must be public and you should share it with others, you should _not_ make your code for this project available publicly.**
 
-Since there are two assignments you need to submit to on Gradescope, we will treat your submission time as being the **latter** of your two submissions. So, if you submit to the "Project 4 Notebook PDF" assignment before the deadline but to the "Project 4 Website Link (All Datasets)" website one day late, overall, you will be charged a slip day.
+Since there are two assignments you need to submit to on Gradescope, we will treat your submission time as being the **latter** of your two submissions. So, if you submit to the "Final Project Notebook PDF" assignment before the deadline but to the "Final Project Website Link (All Datasets)" website one day late, overall, you will be charged a slip day.
 
 {: .warning }
 There are a lot of moving parts to this assignment – don't wait until the last minute to try and submit!
