@@ -7,26 +7,26 @@ nav_exclude: true
 
 <script type="text/javascript" async="" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
-# Project 4: The Data Science Lifecycle 📊
+# Final Project: The Data Science Lifecycle 📊
 {:.no_toc}
-## Checkpoint Due Date: Thursday, March 7th at 11:59PM
+## Checkpoint Due Date: Friday, May 24th at 11:59PM
 {:.no_toc}
-## Final Due Date: Thursday, March 21st at 11:59PM <span style="color:red">(no slip days allowed!)</span>
+## Final Due Date: Wednesday, June 12nd at 11:59PM <span style="color:red">(no extension allowed!)</span>
 {:.no_toc}
 
 ---
 
-Welcome to Project 4, the final assignment of the quarter! 👋
+Welcome to Final Project, the final assignment of the quarter! 👋
 
-This project aims to be a culmination of everything you've learned this quarter. In Project 4, you will conduct an open-ended investigation into one of the three datasets (Recipes and Ratings 🍽, League of Legends ⌨️, or Power Outages 🔋). **Specifically, you'll draw several visualizations to help understand the distributions of key variables, assess the missingness mechanisms of columns with missing values, test a hypotheses about the data, and finally, build and improve a predictive model.** This project will be entirely manually graded by us – that's right, no autograders!
+This project aims to be a culmination of everything you've learned this quarter. In the project, you will conduct an open-ended investigation into one of the three datasets (Recipes and Ratings 🍽, League of Legends ⌨️, or Power Outages 🔋). **Specifically, you'll draw several visualizations to help understand the distributions of key variables, assess the missingness mechanisms of columns with missing values, test a hypotheses about the data, and finally, build and improve a predictive model.** This project will be entirely manually graded by us – that's right, no autograders!
 
-Project 4 is worth 10% in your overall grade, which means it's worth double what previous projects were worth. Its checkpoint is also worth double a regular checkpoint, at 2%. You should think of Project 4 like a "Final Project."
+Final Project worth 10% in your overall grade, which means it's worth double what previous projects were worth. Its checkpoint is also worth double a regular checkpoint, at 2%. 
 
 As your final deliverables, you'll submit two things to us: a **public-facing website** as well as a **PDF of your Jupyter Notebook**. We encourage you to build something you are proud of as this will give you something concrete to put on your resume and show to potential employers!
 
 {: .green }
-> **Project 4 is due on Thursday, March 21st at 11:59PM. This is a hard deadline; you may NOT use slip days on this project.** This is because we need to start grading projects right when you turn them in, so that there is enough time for you to make regrade requests before we submit grades to campus. Note that we will not be able to hold many office hours during Finals Week, so make sure to start early.<br><br>
-> Project 4 does also have a checkpoint, which is due on **Thursday, March 7th**. You can use up to two slip days on the checkpoint deadline (but again, none on the final deadline!). The Project 4 Checkpoint is structured differently than other project checkpoints; rather than having you submit any code, you'll answer a few questions about your progress on the project. More details are in the [Checkpoint Submission](#checkpoint-submission) towards the bottom of this page. You can submit the checkpoint on Gradescope [here](https://www.gradescope.com/courses/698219/assignments/4166466/); make sure to tag your partner if you have one.
+> **Final Project is due on Wednesday, June 12nd at 11:59PM. This is a hard deadline; you may NOT use slip days on this project.** This is because we need to start grading projects right when you turn them in, so that there is enough time for you to make regrade requests before we submit grades to campus. Note that we will not be able to hold many office hours during Finals Week, so make sure to start early.<br><br>
+> The Final Project does also have a checkpoint, which is due on **Friday, May 24th**. The Final Project Checkpoint is structured differently than other project checkpoints; rather than having you submit any code, you'll answer a few questions about your progress on the project. More details are in the [Checkpoint Submission](#checkpoint-submission) towards the bottom of this page. You can submit the checkpoint on Gradescope [here](https://www.gradescope.com/courses/759147/assignments/4503144/); make sure to tag your partner if you have one.
 
 The project is broken into two parts:
 
@@ -268,7 +268,7 @@ The above instructions give you all you need to create and make updates to your 
 
 ### Checkpoint Submission
 
-As mentioned at the top of this page, this project **does** have a checkpoint, which is worth 2% of your overall grade. The checkpoint is due on **Thursday, March 7th**, and you _can_ use up to two slip days on it. You can submit the checkpoint [here](https://www.gradescope.com/courses/698219/assignments/4166466/) on Gradescope.
+As mentioned at the top of this page, this project **does** have a checkpoint, which is worth 2% of your overall grade. The checkpoint is due on **Friday, May 24th**, and you _can_ use up to two slip days on it. You can submit the checkpoint [here](https://www.gradescope.com/courses/759147/assignments/4503144/) on Gradescope.
 
 The checkpoint assignment is worth 20 points, and asks you to answer the following questions:
 
