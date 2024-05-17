@@ -34,6 +34,7 @@ days:
         url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/projects/03-language_models
       - name: DISC 7
         type: disc
+        blank: discussions/disc07/disc07_worksheet.pdf
         title: Exam Prep 7
         reading: ''
 ---
