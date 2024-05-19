@@ -30,4 +30,5 @@ days:
     type: proj
     title: Final Project Checkpoint 2
     reading: ''
+    url: proj04
 ---
