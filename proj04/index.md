@@ -267,7 +267,7 @@ The above instructions give you all you need to create and make updates to your 
 
 ### Checkpoint Submission
 
-As mentioned at the top of this page, this project **does** have two checkpoints, which is worth 2% of your overall grade. The first checkpoint is due on **Friday, May 24th** the second one is due on **Friday, May 31st**, and you _can_ use up to two slip days on it. You can submit the checkpoint [here](https://www.gradescope.com/courses/759147/assignments/4503144/) on Gradescope.
+As mentioned at the top of this page, this project **does** have two checkpoints, which is worth 2% of your overall grade. The first checkpoint is due on **Friday, May 24th**. The second one is due on **Friday, May 31st**, and you _can_ use up to two slip days on it. You can submit the checkpoint [here](https://www.gradescope.com/courses/759147/assignments/4503144/) on Gradescope.
 
 The checkpoint assignment is worth 20 points, and asks you to answer the following questions:
 
