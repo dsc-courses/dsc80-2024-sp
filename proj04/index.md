@@ -26,7 +26,7 @@ As your final deliverables, you'll submit two things to us: a **public-facing we
 
 {: .green }
 > **Final Project is due on Wednesday, June 12th at 11:59PM. This is a hard deadline; you may NOT use slip days on this project.** This is because we need to start grading projects right when you turn them in, so that there is enough time for you to make regrade requests before we submit grades to campus. Note that we will not be able to hold many office hours during Finals Week, so make sure to start early.<br><br>
-> The Final Project does also have a checkpoint, which is due on **Friday, May 24th**. The Final Project Checkpoint is structured differently than other project checkpoints; rather than having you submit any code, you'll answer a few questions about your progress on the project. More details are in the [Checkpoint Submission](#checkpoint-submission) towards the bottom of this page. You can submit the checkpoint on Gradescope [here](https://www.gradescope.com/courses/759147/assignments/4503144/); make sure to tag your partner if you have one.
+> The Final Project does also have two checkpoints, which is due on **Friday, May 24th** and **Friday, May 31st**. The Final Project Checkpoints are structured differently than other project checkpoints; rather than having you submit any code, you'll answer a few questions about your progress on the project. More details are in the [Checkpoint Submission](#checkpoint-submission) towards the bottom of this page. You can submit the checkpoint on Gradescope [here](https://www.gradescope.com/courses/759147/assignments/4503144/); make sure to tag your partner if you have one.
 
 The project is broken into two parts:
 
@@ -268,7 +268,7 @@ The above instructions give you all you need to create and make updates to your 
 
 ### Checkpoint Submission
 
-As mentioned at the top of this page, this project **does** have a checkpoint, which is worth 2% of your overall grade. The checkpoint is due on **Friday, May 24th**, and you _can_ use up to two slip days on it. You can submit the checkpoint [here](https://www.gradescope.com/courses/759147/assignments/4503144/) on Gradescope.
+As mentioned at the top of this page, this project **does** have two checkpoints, which is worth 2% of your overall grade. The first checkpoint is due on **Friday, May 24th** the second one is due on **Friday, May 31st**, and you _can_ use up to two slip days on it. You can submit the checkpoint [here](https://www.gradescope.com/courses/759147/assignments/4503144/) on Gradescope.
 
 The checkpoint assignment is worth 20 points, and asks you to answer the following questions:
 
