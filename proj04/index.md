@@ -60,7 +60,7 @@ To help contextualize the kinds of analysis you can do in this project, it might
 
 1. [League of Legends First Blood Statistical Analysis](https://krystalqjx.github.io/LOL-analysis/): This project excelled in clarifying their research aims, making the study understandable to a broader audience. In your own project, ensure that you provide a lucid and detailed explanation of your research focus.
 2. [Analyzing Power Outages](https://nghosh24.github.io/power-outages/): This project presents a noval way to do the data visualization. In your project, please think about what is the best way to present your data.
-3. [nvestigation on the Relationship Between Amount of Sugar and Rating of Recipes](https://cecilia-lin.github.io/RecipeProject/): In this project, the students have effectively highlighted the improvement they made based on the baseline model. In your own project, also ensure that you explain what you have done to improve your baseline model.
+3. [Investigation on the Relationship Between Amount of Sugar and Rating of Recipes](https://cecilia-lin.github.io/RecipeProject/): In this project, the students have effectively highlighted the improvement they made based on the baseline model. In your own project, also ensure that you explain what you have done to improve your baseline model.
 
 
 {: .green }
