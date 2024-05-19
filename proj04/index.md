@@ -62,7 +62,6 @@ To help contextualize the kinds of analysis you can do in this project, it might
 2. [Analyzing Power Outages](https://nghosh24.github.io/power-outages/): This project presents a noval way to do the data visualization. In your project, please think about what is the best way to present your data.
 3. [nvestigation on the Relationship Between Amount of Sugar and Rating of Recipes](https://cecilia-lin.github.io/RecipeProject/): In this project, the students have effectively highlighted the improvement they made based on the baseline model. In your own project, also ensure that you explain what you have done to improve your baseline model.
 
-Note that these examples only contain a subset of the analyses you were required to do – your websites will be longer than those above. (In previous offerings of DSC 80, The Final Project used to be split into two separate projects, Projects 3 and 5. The above examples are old Project 3s.)
 
 {: .green }
 Before choosing a dataset, read the rest of this page to see what's required of you!
