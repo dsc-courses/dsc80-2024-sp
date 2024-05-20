@@ -26,7 +26,7 @@ As your final deliverables, you'll submit two things to us: a **public-facing we
 
 {: .green }
 > **Final Project is due on Wednesday, June 12th at 11:59PM. This is a hard deadline; you may NOT use the extension on this project.** This is because we need to start grading projects right when you turn them in, so that there is enough time for you to make regrade requests before we submit grades to campus. Note that we will not be able to hold many office hours during Finals Week, so make sure to start early.<br><br>
-> The Final Project does also have two checkpoints, which is due on **Friday, May 24th** and **Friday, May 31st**. The Final Project Checkpoints are structured differently than other project checkpoints; rather than having you submit any code, you'll answer a few questions about your progress on the project. More details are in the [Checkpoint Submission](#checkpoint-submission) towards the bottom of this page. You can submit the checkpoint on Gradescope [here](https://www.gradescope.com/courses/759147/assignments/4503144/); make sure to tag your partner if you have one.
+> The Final Project does also have two checkpoints, which is due on **Friday, May 24th** and **Friday, May 31st**. The Final Project Checkpoints are structured differently than other project checkpoints; rather than having you submit any code, you'll answer a few questions about your progress on the project. More details are in the [Checkpoint Submission](#checkpoint-submission) towards the bottom of this page. You can submit the [checkpoint 1](https://www.gradescope.com/courses/759147/assignments/4503144/) and [checkpoint 2](https://www.gradescope.com/courses/759147/assignments/4509099/) on Gradescope; make sure to tag your partner if you have one.
 
 The project is broken into two parts:
 
@@ -265,16 +265,27 @@ The above instructions give you all you need to create and make updates to your 
 
 ## Submission and Rubric
 
-### Checkpoint Submission
+### Checkpoint 1 Submission
 
-As mentioned at the top of this page, this project **does** have two checkpoints, which is worth 2% of your overall grade. The first checkpoint is due on **Friday, May 24th**. The second one is due on **Friday, May 31st**. You can submit the checkpoint [here](https://www.gradescope.com/courses/759147/assignments/4503144/) on Gradescope.
+As mentioned at the top of this page, this project **does** have two checkpoints, which is worth 1% of your overall grade. The first checkpoint is due on **Friday, May 24th**. You can submit the checkpoint [here](https://www.gradescope.com/courses/759147/assignments/4503144/) on Gradescope.
 
-The checkpoint assignment is worth 20 points, and asks you to answer the following questions:
+The checkpoint 1 assignment is worth 20 points, and asks you to answer the following questions:
 
 1. (2 points) Which of the three datasets did you choose? Why?
 1. (6 points) Upload a screenshot of a `plotly` visualization you've created while completing Part 1, Step 2: Data Cleaning and Exploratory Data Analysis.
 1. (6 points) What is the pair of hypotheses you plan on testing in Part 1, Step 4? What is the test statistic you plan on using?
-1. (6 points) What is the column you plan on trying to predict in Part 1, Steps 5-8? Is it a classification or regression problem? 
+1. (6 points) What is the column you plan on trying to predict in Part 1, Steps 5-8? Is it a classification or regression problem?
+
+### Checkpoint 2 Submission
+
+As mentioned at the top of this page, this project **does** have two checkpoints, which is worth 1% of your overall grade. The second one is due on **Friday, May 31st**. You can submit the checkpoint [here](https://www.gradescope.com/courses/759147/assignments/4509099/) on Gradescope.
+
+The checkpoint 2 assignment is worth 20 points, and asks you to answer the following questions:
+
+1. (7.5 points) For step 4, what are two hypotheses you have tested, and what were the result?
+1. (7.5 points) Briefly explain your baseline model and your plans for improving the model.
+1. (5 points) Submit a working GitHub page webpage URL for the project. On the webpage, you need to at least include a project title.
+
 
 ### Final Submission
 
