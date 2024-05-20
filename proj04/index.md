@@ -25,7 +25,7 @@ Final Project worth 10% in your overall grade, which means it's worth double wha
 As your final deliverables, you'll submit two things to us: a **public-facing website** as well as a **PDF of your Jupyter Notebook**. We encourage you to build something you are proud of as this will give you something concrete to put on your resume and show to potential employers!
 
 {: .green }
-> **Final Project is due on Wednesday, June 12th at 11:59PM. This is a hard deadline; you may NOT use slip days on this project.** This is because we need to start grading projects right when you turn them in, so that there is enough time for you to make regrade requests before we submit grades to campus. Note that we will not be able to hold many office hours during Finals Week, so make sure to start early.<br><br>
+> **Final Project is due on Wednesday, June 12th at 11:59PM. This is a hard deadline; you may NOT use the extension on this project.** This is because we need to start grading projects right when you turn them in, so that there is enough time for you to make regrade requests before we submit grades to campus. Note that we will not be able to hold many office hours during Finals Week, so make sure to start early.<br><br>
 > The Final Project does also have two checkpoints, which is due on **Friday, May 24th** and **Friday, May 31st**. The Final Project Checkpoints are structured differently than other project checkpoints; rather than having you submit any code, you'll answer a few questions about your progress on the project. More details are in the [Checkpoint Submission](#checkpoint-submission) towards the bottom of this page. You can submit the checkpoint on Gradescope [here](https://www.gradescope.com/courses/759147/assignments/4503144/); make sure to tag your partner if you have one.
 
 The project is broken into two parts:
@@ -267,7 +267,7 @@ The above instructions give you all you need to create and make updates to your 
 
 ### Checkpoint Submission
 
-As mentioned at the top of this page, this project **does** have two checkpoints, which is worth 2% of your overall grade. The first checkpoint is due on **Friday, May 24th**. The second one is due on **Friday, May 31st**, and you _can_ use up to two slip days on it. You can submit the checkpoint [here](https://www.gradescope.com/courses/759147/assignments/4503144/) on Gradescope.
+As mentioned at the top of this page, this project **does** have two checkpoints, which is worth 2% of your overall grade. The first checkpoint is due on **Friday, May 24th**. The second one is due on **Friday, May 31st**. You can submit the checkpoint [here](https://www.gradescope.com/courses/759147/assignments/4503144/) on Gradescope.
 
 The checkpoint assignment is worth 20 points, and asks you to answer the following questions:
 
@@ -288,7 +288,7 @@ You will ultimately submit your project in two ways:
 
 To both submissions, make sure to tag your partner. You don't need to submit your actual `.ipynb` file anywhere. **While your website must be public and you should share it with others, you should _not_ make your code for this project available publicly.**
 
-Since there are two assignments you need to submit to on Gradescope, we will treat your submission time as being the **latter** of your two submissions. So, if you submit to the "Final Project Notebook PDF" assignment before the deadline but to the "Final Project Website Link (All Datasets)" website one day late, overall, you will be charged a slip day.
+Since there are two assignments you need to submit on Gradescope, we will treat your submission time as being the **latter** of your two submissions. So, if you submit to the "Final Project Notebook PDF" assignment before the deadline but to the "Final Project Website Link (All Datasets)" website one day late, overall, that counts as late submission.
 
 {: .warning }
 There are a lot of moving parts to this assignment – don't wait until the last minute to try and submit!
