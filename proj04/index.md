@@ -9,7 +9,9 @@ nav_exclude: true
 
 # Final Project: The Data Science Lifecycle 📊
 {:.no_toc}
-## Checkpoint Due Date: Friday, May 24th at 11:59PM
+## Checkpoint 1 Due Date: Friday, May 24th at 11:59PM
+{:.no_toc}
+## Checkpoint 2 Due Date: Friday, May 31st at 11:59PM
 {:.no_toc}
 ## Final Due Date: Wednesday, June 12th at 11:59PM <span style="color:red">(no extension allowed!)</span>
 {:.no_toc}
