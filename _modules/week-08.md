@@ -24,6 +24,7 @@ days:
         title: Pipelines, Multicollinearity, and Generalization
         blank: resources/lectures/lec15/lec15-live.html
         filled: resources/lectures/lec15/lec15.html
+        podcast: https://www.youtube.com/watch?v=2H9vuv-5oVo
         reading: '[Ch. 16](https://learningds.org/ch/16/ms_train_test.html), [17.6](https://learningds.org/ch/17/inf_pred_gen_prob.html)'
   - date: '2024-05-24'
     events:
