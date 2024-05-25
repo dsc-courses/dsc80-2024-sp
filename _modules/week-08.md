@@ -32,6 +32,7 @@ days:
         type: disc
         title: Exam Prep 8
         reading: ''
+        blank: discussions/disc08/disc08_worksheet.pdf
       - name: FINAL PROJ
         type: proj
         title: Final Project Checkpoint 1
