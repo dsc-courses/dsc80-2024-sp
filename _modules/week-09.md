@@ -21,7 +21,9 @@ days:
     events:
       - name: LEC 17
         type: lecture
-        title: Decision Trees and Random Forests
+        title: Grid Search, Random Forests, Classifier Evaluation
+        blank: resources/lectures/lec17/lec17-live.html
+        filled: resources/lectures/lec17/lec17.html
         reading: ''
   - date: '2024-05-31'
     events:
