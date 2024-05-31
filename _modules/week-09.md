@@ -30,6 +30,7 @@ days:
       - name: DISC 9
         type: disc
         title: Exam Prep 9
+        blank: discussions/disc09/disc09_worksheet.pdf
         reading: ''
       - name: FINAL PROJ
         type: proj
