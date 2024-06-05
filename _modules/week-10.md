@@ -21,7 +21,9 @@ days:
     events:
       - name: LEC 19
         type: lecture
-        title: Review, Conclusion
+        title: Career Advice, Review, Conclusion
+        blank: resources/lectures/lec19/lec19-live.html
+        filled: resources/lectures/lec19/lec19.html
         reading: ''
   - date: '2024-06-07'
     events:
