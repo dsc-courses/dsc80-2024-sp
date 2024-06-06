@@ -7765,6 +7765,129 @@ Would you have some time in the next few weeks for a 30-min chat?
 </div>
 </div>
 </div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=36787471">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Imputation">Imputation<a class="anchor-link" href="#Imputation">¶</a></h2><pre><code>2, 100, 100, 2, 50, NA, NA
+</code></pre>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=9ef17340">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Hypothesis-Testing">Hypothesis Testing<a class="anchor-link" href="#Hypothesis-Testing">¶</a></h2><p>H0: A and B have the same distribution
+H1: A and B are not the same distribution (two-sided)
+    mean(A) &gt; mean(B)                     (one-sided)</p>
+<p>B: know the distribution? then use multinomial
+    - you know your population has a 50/50 split between M/F
+    - you know your population has distribution of ethnicities
+    - you know your population has a uniform distribution
+   don't know the distribution, but want to compare to A? then use permutation test.
+    - you want to compare baby weights for smoking mothers and non-smoking mothers</p>
+<p>difference in means
+abs difference in means
+TVD
+K-S
+...</p>
+<p>Numeric distribution (histogram):</p>
+<ul>
+<li>difference in means      (one-sided)</li>
+<li>abs difference in means  (two-sided)</li>
+<li>K-S                      (two-sided, the shape, not diff in means)</li>
+</ul>
+<p>Categorical distribution (bar plot):</p>
+<ul>
+<li>TVD (two-sided)</li>
+<li>Special case: if two categories, then abs diff in means can also work</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=c3ea89e1">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Evaluation-/-Fairness">Evaluation / Fairness<a class="anchor-link" href="#Evaluation-/-Fairness">¶</a></h2>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=88352d70">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>Precision + recall, you should be able to compute</p>
+<ul>
+<li>given confusion matrix, is precision &gt; recall?</li>
+</ul>
+<p>Draw the precision-recall curve given:</p>
+<table>
+<thead>
+<tr>
+<th>predicted probabilities</th>
+<th>observed labels</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0.2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0.7</td>
+<td>1</td>
+</tr>
+<tr>
+<td>0.3</td>
+<td>1</td>
+</tr>
+<tr>
+<td>0.4</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=2034df3b">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>0, 1, 0, 0</p>
+<p>precision = 1
+recall = 1/2</p>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=fa4d6b7b">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>0.35</p>
+</div>
+</div>
+</div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=5a4e5808">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
