@@ -31,7 +31,7 @@ days:
       - name: DISC 8
         type: disc
         title: Exam Prep 8
-        reading: ''
+        reading: '[Slides](discussions/disc08/disc08.pdf)'
         blank: discussions/disc08/disc08_worksheet.pdf
       - name: FINAL PROJ
         type: proj

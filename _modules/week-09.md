@@ -31,7 +31,7 @@ days:
         type: disc
         title: Exam Prep 9
         blank: discussions/disc09/disc09_worksheet.pdf
-        reading: ''
+        reading: '[Slides](discussions/disc09/disc09.pdf)'
       - name: FINAL PROJ
         type: proj
         title: Final Project Checkpoint 2

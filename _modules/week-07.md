@@ -36,5 +36,5 @@ days:
         type: disc
         blank: discussions/disc07/disc07_worksheet.pdf
         title: Exam Prep 7
-        reading: ''
+        reading: '[Slides](discussions/disc07/disc07.pdf)'
 ---
