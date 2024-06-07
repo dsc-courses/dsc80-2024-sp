@@ -24,7 +24,7 @@ days:
         title: Midterm Exam (in class)
         blank: resources/exams/midterm.pdf
         filled: resources/exams/SOLUTIONS-midterm.pdf
-        reading: ''
+        reading: '[Info Sheet for Midterm](resources/exams/midterm-info.pdf)'
   - date: '2024-05-03'
     events:
       - name: PROJ 2
