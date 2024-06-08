@@ -30,8 +30,8 @@ nav_order: 1
 
 <!-- Click the 🎥 button to view the recording of a lecture/discussion.<br>Click the 📝 button to view lecture notebooks after they've been filled in during lecture. -->
 
-{: .green }
-**Welcome to DSC 80! 👋 Make sure to: read the [syllabus][syllabus], check that you can access [Gradescope][gradescope] and [Ed][ed], fill out the [Welcome Survey][welcome-survey], and fill out the [Exam Accommodations Form][exam-accommodations] if you have an exam conflict.**
+<!-- {: .green }
+**Welcome to DSC 80! 👋 Make sure to: read the [syllabus][syllabus], check that you can access [Gradescope][gradescope] and [Ed][ed], fill out the [Welcome Survey][welcome-survey], and fill out the [Exam Accommodations Form][exam-accommodations] if you have an exam conflict.** -->
 
 {% for module in site.modules %}
 {{ module }}
